@@ -1,0 +1,10 @@
+git init 
+git status
+git add
+git commit -m "comments"
+git remote add origin  "repo link"
+git push -u origin master
+git log
+git config --global user.email "aakash.kadam36@gmail.com"
+git config --global user.name "Akee7740"
+
